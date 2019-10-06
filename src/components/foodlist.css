@@ -1,0 +1,10 @@
+#list {
+    list-style-type: none;
+    font-family: Helvetica;
+    /* background-color: blue; */
+    color: white;
+}
+
+body {
+    background-color: blue
+}
